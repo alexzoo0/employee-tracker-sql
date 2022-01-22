@@ -17,7 +17,7 @@
   After you install all dependencies, go ahead and "npm start" and play around with the prompts it gives you to choose from.
   - here is a video for demonstration
 
-[![Watch the video](./develop/img/demonstration.mov)]
+[![Watch the video](./develop/img/demonstration.mov)](https://youtu.be/5IjVooy-lF8)
   
   ## Features:
   You can add or update users.
